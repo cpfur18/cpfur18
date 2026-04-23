@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpfur18&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpfur18&layout=compact)
 
 ## 📄 Experience
-- 멀티캠퍼스 백엔드 개발자 부트캠프(스프링) 25회차 _2023.04 ~ 2024.08_
+- 멀티캠퍼스 백엔드 개발자 부트캠프(스프링) 25회차 _2024.04 ~ 2024.08_
 <br>
 
 ## 💻 Project
