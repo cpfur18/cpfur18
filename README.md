@@ -16,7 +16,7 @@
 
 ## 💻 Project
 - <a href="https://github.com/multiitTeam3/FilmPick">FilmPick(영화 예매 웹 사이트 개발) _2024.06 ~ 2024.07_</a>
-- <a href="https://github.com/MultiItFinalProject4Team/Laptellect">Laptellect(노트북 추천 서비스 개발) _2024.07 ~ 2024.08_</a>
+- <a href="https://github.com/cpfur18/Laptellect.git">Laptellect(노트북 추천 서비스 개발) _2024.07 ~ 2024.08_</a>
 <br>
 
 ## 🏆 Award
