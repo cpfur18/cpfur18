@@ -19,9 +19,11 @@
 - <a href="https://github.com/cpfur18/Laptellect.git">Laptellect(노트북 추천 서비스 개발) _2024.07 ~ 2024.08_</a>
 <br>
 
-## 🏆 Award
+## 🏆 Award & Certifications
 🥈 [2024년 멀티캠퍼스 백엔드 개발자 부트캠프(스프링) 25회차 우수상] _2024-08-26_
 <br> &nbsp; &nbsp;Java Spring Boot를 사용한 노트북 추천 및 구매 쇼핑몰
+<br><br> 정보처리기사
+<br> SQLD
 <br><br>
 
 
